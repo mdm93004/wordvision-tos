@@ -1,7 +1,7 @@
 
 # WordVision Terms of Service
 
-#### Last updated: March 17, 2023 at 8:08 EST
+#### Last updated: April 18, 2023 at 12:11 EST
 
 #### Effective: Immediately
 
@@ -35,7 +35,7 @@ By accessing and using the Bot, you agree to be bound by the following Terms of 
 
 5. You cannot use WordVision to generate answers or plagiarize content for school assignments, job applications, or other professional endeavours. We value academic and professional integrity and expect our users to do the same.
 
-5. You agree to comply with all applicable third-party terms of service, including but not limited to Discord, craiyon.com, and OpenAI, as well as any applicable laws and regulations. Any violation of       these terms may result in the termination of our services, without prior notice to you.
+5. You agree to comply with all applicable third-party terms of service, including but not limited to Discord and OpenAI, as well as any applicable laws and regulations. Any violation of these terms may result in the termination of our services, without prior notice to you.
 
 ## Termination of Usage
 We reserve the right to refuse service to anyone at any time, for any reason, including but not limited to       violation of these terms, without prior notice or liability.
